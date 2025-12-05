@@ -319,6 +319,7 @@ AI (ChatGPT) was used as an assistant for:
 - Understanding the workflow of the project
 - Helping in UI designing
 - Integrating the Ollama Llama3 model into the project
+- Fallback Logic if Ollama Fails
 - Debugging errors and minor logic fixes
 - Helping in creating the README file
 
