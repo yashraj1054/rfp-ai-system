@@ -323,10 +323,6 @@ AI (ChatGPT) was used as an assistant for:
 - Debugging errors and minor logic fixes
 - Helping in creating the README file
 
-⚠ Human decisions included:
-
-- Switching from OpenAI API to local Ollama (cost-free and offline)
-- Heuristic fallback to prevent AI failure cases
 
 ## 👨‍💻 Author
 **Yashraj Singh**
